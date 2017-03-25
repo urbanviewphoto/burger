@@ -1,0 +1,37 @@
+body {
+  padding: 50px;
+  background-color: #00B7FF;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+img {
+	height: 200px;
+	width: 200px;
+}
+
+#buttons {
+	height:30px;
+	width: 100px;
+	border: 2px solid;
+	border-radius: 8px;
+	margin:auto;
+	text-align:center;
+}
+
+#title {
+	margin: auto;
+	text-align: center;
+}
+
+.addBurger {
+	/*background-color: #00B8AA;*/
+	margin:auto;
+	height:30%;
+	width: 30%;
+}
+
+#burgerType {
+	font-size: 20px;
+	height: 40%;
+	width: 60%;
+}
